@@ -3,6 +3,15 @@ body {
   padding: 0;
   background: linear-gradient(to bottom right, purple, orange);
   font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
 }
 
 button {
