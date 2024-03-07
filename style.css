@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom right, purple, orange);
+  font-family: Arial, sans-serif;
+}
+
+button {
+  background-color: indigo;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+#clickCount {
+  color: white;
+}
