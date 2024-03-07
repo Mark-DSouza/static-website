@@ -14,6 +14,10 @@ body {
   padding: 20px;
 }
 
+h1 {
+  color: violet; /* Changed color to violet */
+}
+
 button {
   background-color: indigo;
   color: white;
@@ -25,5 +29,5 @@ button {
 }
 
 #clickCount {
-  color: white;
+  color: turquoise;
 }
